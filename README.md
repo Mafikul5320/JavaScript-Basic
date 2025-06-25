@@ -89,33 +89,88 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🎯 What I'm Working On
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  
+| 🚀 **Current Focus** | 📚 **Learning** | 🎯 **Goals** |
+|:---:|:---:|:---:|
+| Building scalable web apps | Advanced React patterns | Contribute to open source |
+| MERN stack projects | Cloud technologies | Master system design |
+| API development | DevOps practices | Build SaaS products |
+
 </div>
 
-## 📈 Contribution Graph
+## 💻 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Coding Activity" />
 </div>
 
-## 💼 Featured Projects
+## 🏅 Achievements & Certifications
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark" alt="Project 1" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark" alt="Project 2" />
-  </a>
+
+| 🏆 **Achievement** | 📅 **Year** | 🔗 **Link** |
+|:---|:---:|:---:|
+| Full Stack Web Development Certification | 2024 | [View Certificate](#) |
+| JavaScript Algorithms & Data Structures | 2023 | [View Certificate](#) |
+| React Developer Certification | 2023 | [View Certificate](#) |
+| Node.js Backend Development | 2022 | [View Certificate](#) |
+
 </div>
 
-## 💡 Random Dev Quote
+## 🔥 My Development Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
+> *"Clean code always looks like it was written by someone who cares."*
+> 
+> **— Robert C. Martin**
+
+</div>
+
+<div align="center">
+
+| 💡 **Principle** | 📝 **Description** |
+|:---|:---|
+| **Clean Code** | Write code that tells a story |
+| **User First** | Always prioritize user experience |
+| **Continuous Learning** | Stay updated with latest technologies |
+| **Problem Solving** | Break complex problems into simple solutions |
+
+</div>
+
+## 📈 Weekly Development Breakdown
+
+```text
+JavaScript   12 hrs 30 mins  ████████████████████▓░░░░   82.5%
+TypeScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.0%
+CSS          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░░    2.2%
+HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
+```
+
+## 🌟 Open Source Contributions
+
+<div align="center">
+
+| 📦 **Project** | 🔧 **Contribution** | ⭐ **Impact** |
+|:---|:---|:---|
+| React Component Library | Added accessibility features | 500+ downloads |
+| Node.js API Framework | Performance optimization | 15% speed improvement |
+| CSS Animation Library | New animation effects | 1k+ GitHub stars |
+
+</div>
+
+---
+
+<div align="center">
+  <h3>💼 Available for exciting opportunities!</h3>
+  <p>Let's build something amazing together 🚀</p>
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 </div>
 
 ---
