@@ -21,30 +21,18 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 ## 🛠️ Tech Stack
 
 ### Frontend
-<p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" alt="Frontend Skills"/>
   </p>
 
 ### Backend
 <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills"/>
   </p>
 
-### Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
-
 ### Tools & Others
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,Netlify,vercel" alt="Backend Skills"/>
 </p>
 
 ## 🌐 Connect with Me
