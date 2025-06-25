@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+a+Full+Stack+Developer+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
