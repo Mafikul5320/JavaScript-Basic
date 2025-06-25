@@ -20,37 +20,26 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p align="center">
+<div align="center">
+  ### Frontend
+<p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" alt="Frontend Skills"/>
   </p>
+</div>
 
-### Backend
+<div align="center">
+  ### Backend
 <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills"/>
   </p>
+</div>
 
-### Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,Netlify,vercel" alt="Backend Skills"/>
+<div align="center">
+  ### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" alt="Backend Skills"/>
 </p>
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yourusername" height="30" width="40" />
-  </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yourusername" height="30" width="40" />
-  </a>
-</p>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -66,58 +55,6 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🎯 What I'm Working On
-
-<div align="center">
-  
-| 🚀 **Current Focus** | 📚 **Learning** | 🎯 **Goals** |
-|:---:|:---:|:---:|
-| Building scalable web apps | Advanced React patterns | Contribute to open source |
-| MERN stack projects | Cloud technologies | Master system design |
-| API development | DevOps practices | Build SaaS products |
-
-</div>
-
-## 💻 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Coding Activity" />
-</div>
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 **Achievement** | 📅 **Year** | 🔗 **Link** |
-|:---|:---:|:---:|
-| Full Stack Web Development Certification | 2024 | [View Certificate](#) |
-| JavaScript Algorithms & Data Structures | 2023 | [View Certificate](#) |
-| React Developer Certification | 2023 | [View Certificate](#) |
-| Node.js Backend Development | 2022 | [View Certificate](#) |
-
-</div>
-
-## 🔥 My Development Philosophy
-
-<div align="center">
-  
-> *"Clean code always looks like it was written by someone who cares."*
-> 
-> **— Robert C. Martin**
-
-</div>
-
-<div align="center">
-
-| 💡 **Principle** | 📝 **Description** |
-|:---|:---|
-| **Clean Code** | Write code that tells a story |
-| **User First** | Always prioritize user experience |
-| **Continuous Learning** | Stay updated with latest technologies |
-| **Problem Solving** | Break complex problems into simple solutions |
-
-</div>
-
 ## 📈 Weekly Development Breakdown
 
 ```text
@@ -126,18 +63,6 @@ TypeScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░
 CSS          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░░    2.2%
 HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░░    0.3%
 ```
-
-## 🌟 Open Source Contributions
-
-<div align="center">
-
-| 📦 **Project** | 🔧 **Contribution** | ⭐ **Impact** |
-|:---|:---|:---|
-| React Component Library | Added accessibility features | 500+ downloads |
-| Node.js API Framework | Performance optimization | 15% speed improvement |
-| CSS Animation Library | New animation effects | 1k+ GitHub stars |
-
-</div>
 
 ---
 
